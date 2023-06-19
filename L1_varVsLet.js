@@ -2,7 +2,7 @@
 
 // let = variables are limited to block scope{}
 // var = variables are limited to a function(){}
-// Global variable = is declared out any function
+// Global variable = is declared out any function.
 //(if global, var will CHANGE Browser's window properties)
 
 // can access in block
