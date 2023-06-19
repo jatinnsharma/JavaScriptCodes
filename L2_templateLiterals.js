@@ -12,5 +12,6 @@ let total= 75
 //console.log("hello",userName)
 
 
+
 //template literals
 console.log(`You have ${items} items in your cart`)
