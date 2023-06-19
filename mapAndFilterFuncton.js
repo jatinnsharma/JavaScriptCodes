@@ -1,6 +1,6 @@
 let names=['Jatin',"Jack","Jessica"]
 
-// we want result like Jatin1,Jack1,Jessica1
+// we want result like Jatin1,Jack1,Jessica1.
 // first method using for loop
 for(let i =0;i<names.length;i++){
     console.log(names[i]+"1")
