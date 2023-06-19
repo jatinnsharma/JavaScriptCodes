@@ -17,7 +17,6 @@ for(var i=1;i<=3;i+=1){
 // cannot access outsite block of code
 console.log(i);
 
-
 doSomething();
 
 function doSomething(){
