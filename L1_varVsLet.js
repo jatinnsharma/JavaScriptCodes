@@ -6,6 +6,7 @@
 //(if global, var will CHANGE Browser's window properties)
 
 
+
 // can access in block
 for(let i=1;i<=3;i+=1){
     console.log(i);
